@@ -1,0 +1,766 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 2.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{phonegapBuild_gebuehren}{online}{}
+  \list{organization}{1}{%
+    {Adobe}%
+  }
+  \field{labelyear}{2013}
+  \field{sortinit}{A}
+  \field{title}{Adobe PhoneGap Build}
+  \verb{url}
+  \verb https://build.phonegap.com/
+  \endverb
+  \field{year}{2013}
+  \field{urlyear}{2014}
+\endentry
+
+\entry{android_api_guides}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Android Developer}}{A.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \list{organization}{1}{%
+    {{Open Handset Alliance}}%
+  }
+  \strng{namehash}{A1}
+  \strng{fullhash}{A1}
+  \field{labelyear}{2014}
+  \field{extrayear}{1}
+  \field{sortinit}{A}
+  \field{title}{API Guides}
+  \verb{url}
+  \verb http://developer.android.com/guide/index.html
+  \endverb
+  \field{year}{2014}
+  \field{urlyear}{2014}
+  \warn{\item Can't use 'date' + 'year'}
+\endentry
+
+\entry{android_api_ref}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Android Developer}}{A.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \list{organization}{1}{%
+    {{Open Handset Alliance}}%
+  }
+  \strng{namehash}{A1}
+  \strng{fullhash}{A1}
+  \field{labelyear}{2014}
+  \field{extrayear}{2}
+  \field{sortinit}{A}
+  \field{title}{API Reference}
+  \verb{url}
+  \verb http://developer.android.com/reference/packages.html
+  \endverb
+  \field{year}{2014}
+  \field{urlyear}{2014}
+  \warn{\item Can't use 'date' + 'year'}
+\endentry
+
+\entry{android_fragments}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Android Developer}}{A.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \list{organization}{1}{%
+    {{Open Handset Alliance}}%
+  }
+  \strng{namehash}{A1}
+  \strng{fullhash}{A1}
+  \field{labelyear}{2014}
+  \field{extrayear}{3}
+  \field{sortinit}{A}
+  \field{title}{Building a Dynamic UI with Fragments}
+  \verb{url}
+  \verb https://developer.android.com/training/basics/fragments/index.html
+  \endverb
+  \field{year}{2014}
+  \field{urlyear}{2014}
+  \warn{\item Can't use 'date' + 'year'}
+\endentry
+
+\entry{android_entwicklerregistrierung}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Android Developer}}{A.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \list{organization}{1}{%
+    {{Google Play}}%
+  }
+  \strng{namehash}{A1}
+  \strng{fullhash}{A1}
+  \field{labelyear}{2014}
+  \field{extrayear}{4}
+  \field{sortinit}{A}
+  \field{title}{Entwicklerregistrierung}
+  \verb{url}
+  \verb https://support.google.com/googleplay/android-developer/answer/113468?h
+  \verb l=de
+  \endverb
+  \field{year}{2014}
+  \field{urlyear}{2014}
+  \warn{\item Can't use 'date' + 'year'}
+\endentry
+
+\entry{android_getTheSdk}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Android Developer}}{A.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \list{organization}{1}{%
+    {{Open Handset Alliance}}%
+  }
+  \strng{namehash}{A1}
+  \strng{fullhash}{A1}
+  \field{labelyear}{2014}
+  \field{extrayear}{5}
+  \field{sortinit}{A}
+  \field{title}{Get the Android SDK}
+  \verb{url}
+  \verb http://developer.android.com/sdk/index.html
+  \endverb
+  \field{year}{2014}
+  \field{urlyear}{2014}
+  \warn{\item Can't use 'date' + 'year'}
+\endentry
+
+\entry{android_training}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Android Developer}}{A.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \list{organization}{1}{%
+    {{Open Handset Alliance}}%
+  }
+  \strng{namehash}{A1}
+  \strng{fullhash}{A1}
+  \field{labelyear}{2014}
+  \field{extrayear}{6}
+  \field{sortinit}{A}
+  \field{title}{Getting Started}
+  \verb{url}
+  \verb http://developer.android.com/training/index.html
+  \endverb
+  \field{year}{2014}
+  \field{urlyear}{2014}
+  \warn{\item Can't use 'date' + 'year'}
+\endentry
+
+\entry{android_responsive}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Android Developer}}{A.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \list{organization}{1}{%
+    {{Open Handset Alliance}}%
+  }
+  \strng{namehash}{A1}
+  \strng{fullhash}{A1}
+  \field{labelyear}{2014}
+  \field{extrayear}{7}
+  \field{sortinit}{A}
+  \field{title}{Keeping Your App Responsive}
+  \verb{url}
+  \verb http://developer.android.com/training/articles/perf-anr.html
+  \endverb
+  \field{year}{2014}
+  \field{urlyear}{2014}
+  \warn{\item Can't use 'date' + 'year'}
+\endentry
+
+\entry{android_service}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Android Developer}}{A.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \list{organization}{1}{%
+    {{Open Handset Alliance}}%
+  }
+  \strng{namehash}{A1}
+  \strng{fullhash}{A1}
+  \field{labelyear}{2014}
+  \field{extrayear}{8}
+  \field{sortinit}{A}
+  \field{title}{Services}
+  \verb{url}
+  \verb http://developer.android.com/guide/components/services.html
+  \endverb
+  \field{year}{2014}
+  \field{urlyear}{2014}
+  \warn{\item Can't use 'date' + 'year'}
+\endentry
+
+\entry{android_supportLib}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Android Developer}}{A.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \list{organization}{1}{%
+    {{Open Handset Alliance}}%
+  }
+  \strng{namehash}{A1}
+  \strng{fullhash}{A1}
+  \field{labelyear}{2014}
+  \field{extrayear}{9}
+  \field{sortinit}{A}
+  \field{title}{Support Library}
+  \verb{url}
+  \verb http://developer.android.com/tools/support-library/index.html
+  \endverb
+  \field{year}{2014}
+  \field{urlyear}{2014}
+  \warn{\item Can't use 'date' + 'year'}
+\endentry
+
+\entry{phonegap_Architektur}{online}{}
+  \field{labelyear}{2013}
+  \field{sortinit}{B}
+  \field{title}{Basic Steps In PhoneGap app Development}
+  \verb{url}
+  \verb http://phonegap4u.blogspot.co.at/2013/07/how-phonegap-works.html
+  \endverb
+  \field{year}{2013}
+  \field{urlyear}{2014}
+  \warn{\item Can't use 'date' + 'year'}
+\endentry
+
+\entry{phonegapWiki_debuging}{online}{}
+  \list{organization}{1}{%
+    {Adobe}%
+  }
+  \field{labelyear}{2014}
+  \field{sortinit}{D}
+  \field{title}{Debugging in PhoneGap}
+  \verb{url}
+  \verb https://github.com/phonegap/phonegap/wiki/Debugging-in-PhoneGap
+  \endverb
+  \field{year}{2014}
+  \field{urlyear}{2014}
+  \warn{\item Can't use 'date' + 'year'}
+\endentry
+
+\entry{phonegap_cookbook}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Gifford}{G.}%
+     {Matt}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Packt Publishing}%
+  }
+  \strng{namehash}{GM1}
+  \strng{fullhash}{GM1}
+  \field{labelyear}{2012}
+  \field{sortinit}{G}
+  \field{title}{PhoneGap Mobile Application Development Cookbook}
+  \field{year}{2012}
+\endentry
+
+\entry{android_profDev}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Meier}{M.}%
+     {Reto}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{2}{%
+    {John Wiley}%
+    {Sons}%
+  }
+  \strng{namehash}{MR1}
+  \strng{fullhash}{MR1}
+  \field{labelyear}{2012}
+  \field{sortinit}{M}
+  \field{title}{Professional Android 4 Application Development}
+  \field{year}{2012}
+\endentry
+
+\entry{wp8_account-kosten}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Microsoft MSDN}}{M.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \list{organization}{1}{%
+    {{Microsoft MSDN}}%
+  }
+  \strng{namehash}{M1}
+  \strng{fullhash}{M1}
+  \field{labelyear}{2014}
+  \field{extrayear}{1}
+  \field{sortinit}{M}
+  \field{title}{Account types, locations, and fees}
+  \verb{url}
+  \verb http://msdn.microsoft.com/en-us/library/windows/apps/jj863494.aspx
+  \endverb
+  \field{year}{2014}
+  \field{urlyear}{2014}
+  \warn{\item Can't use 'date' + 'year'}
+\endentry
+
+\entry{wp8_async}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Microsoft MSDN}}{M.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \list{organization}{1}{%
+    {{Microsoft MSDN}}%
+  }
+  \strng{namehash}{M1}
+  \strng{fullhash}{M1}
+  \field{labelyear}{2014}
+  \field{extrayear}{2}
+  \field{sortinit}{M}
+  \field{title}{Asynchrone Programmierung mit Async und Await}
+  \verb{url}
+  \verb http://msdn.microsoft.com/de-de/library/hh191443.aspx
+  \endverb
+  \field{year}{2014}
+  \field{urlyear}{2014}
+  \warn{\item Can't use 'date' + 'year'}
+\endentry
+
+\entry{wp8_PanoramaControl}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Microsoft MSDN}}{M.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \list{organization}{1}{%
+    {{Microsoft MSDN}}%
+  }
+  \strng{namehash}{M1}
+  \strng{fullhash}{M1}
+  \field{labelyear}{2014}
+  \field{extrayear}{3}
+  \field{sortinit}{M}
+  \field{title}{Panorama control for Windows Phone 8}
+  \verb{url}
+  \verb http://msdn.microsoft.com/library/windows/apps/ff941104(v=vs.105).aspx
+  \endverb
+  \field{year}{2014}
+  \field{urlyear}{2014}
+  \warn{\item Can't use 'date' + 'year'}
+\endentry
+
+\entry{wp8_emulator_requirement}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Microsoft MSDN}}{M.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \list{organization}{1}{%
+    {{Microsoft MSDN}}%
+  }
+  \strng{namehash}{M1}
+  \strng{fullhash}{M1}
+  \field{labelyear}{2014}
+  \field{extrayear}{4}
+  \field{sortinit}{M}
+  \field{title}{System requirements for the emulator for Windows Phone 8}
+  \verb{url}
+  \verb http://msdn.microsoft.com/en-us/library/windowsphone/develop/ff626524(v
+  \verb =vs.105).aspx
+  \endverb
+  \field{year}{2014}
+  \field{urlyear}{2014}
+  \warn{\item Can't use 'date' + 'year'}
+\endentry
+
+\entry{wp8_vglAndroid}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Microsoft MSDN}}{M.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \list{organization}{1}{%
+    {{Microsoft MSDN}}%
+  }
+  \strng{namehash}{M1}
+  \strng{fullhash}{M1}
+  \field{labelyear}{2014}
+  \field{extrayear}{5}
+  \field{sortinit}{M}
+  \field{title}{User interface programming overview (Android to Windows)}
+  \verb{url}
+  \verb http://msdn.microsoft.com/en-US/library/windows/apps/dn263251.aspx
+  \endverb
+  \field{year}{2014}
+  \field{urlyear}{2014}
+  \warn{\item Can't use 'date' + 'year'}
+\endentry
+
+\entry{phonegapBuild_launch}{online}{}
+  \list{organization}{1}{%
+    {Adobe}%
+  }
+  \field{labelyear}{2012}
+  \field{sortinit}{P}
+  \field{title}{PhoneGap Build is Launched}
+  \verb{url}
+  \verb http://phonegap.com/blog/2012/09/24/phonegap-build-is-launched/
+  \endverb
+  \field{year}{2012}
+  \field{urlyear}{2014}
+\endentry
+
+\entry{phonegapPlatformGuides}{online}{}
+  \list{organization}{1}{%
+    {Adobe}%
+  }
+  \field{labelyear}{2014}
+  \field{sortinit}{P}
+  \field{title}{Platform Guides}
+  \verb{url}
+  \verb http://docs.phonegap.com/en/edge/guide_platforms_index.md.html
+  \endverb
+  \field{year}{2014}
+  \field{urlyear}{2014}
+\endentry
+
+\entry{phonegapArtikel_heiseDev}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Ross}{R.}%
+     {Marcus}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{organization}{1}{%
+    {heise Developer}%
+  }
+  \strng{namehash}{RM1}
+  \strng{fullhash}{RM1}
+  \field{labelyear}{2013}
+  \field{sortinit}{R}
+  \field{title}{Cross-Plattform-Apps mit PhoneGap entwickeln}
+  \verb{url}
+  \verb http://www.heise.de/developer/artikel/Cross-Plattform-Apps-mit-PhoneGap
+  \verb -entwickeln-1934535.html?artikelseite=6
+  \endverb
+  \field{year}{2013}
+  \field{urlyear}{2014}
+  \warn{\item Can't use 'date' + 'year'}
+\endentry
+
+\entry{android_proAndroid4}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Satya~Komatineni}{S.~K.}%
+     {Dave~MacLean}{D.~M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Professional Apress}%
+  }
+  \strng{namehash}{SKDM1}
+  \strng{fullhash}{SKDM1}
+  \field{labelyear}{2012}
+  \field{sortinit}{S}
+  \field{title}{Pro Android 4}
+  \field{year}{2012}
+\endentry
+
+\entry{store_vergleich}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Statista}}{S.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \list{organization}{1}{%
+    {{Statista}}%
+  }
+  \strng{namehash}{S1}
+  \strng{fullhash}{S1}
+  \field{labelyear}{2014}
+  \field{extrayear}{1}
+  \field{sortinit}{S}
+  \field{title}{Anzahl der angebotenen Apps in den Top App-Stores im Juli 2013}
+  \verb{url}
+  \verb http://de.statista.com/statistik/daten/studie/208599/umfrage/anzahl-der
+  \verb -apps-in-den-top-app-stores/
+  \endverb
+  \field{year}{2014}
+  \field{urlyear}{2014}
+  \warn{\item Can't use 'date' + 'year'}
+\endentry
+
+\entry{statistaMarktMobil}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Statista}}{S.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \list{organization}{1}{%
+    {{Statista}}%
+  }
+  \strng{namehash}{S1}
+  \strng{fullhash}{S1}
+  \field{labelyear}{2014}
+  \field{extrayear}{2}
+  \field{sortinit}{S}
+  \field{title}{Marktanteile der führenden mobilen Betriebssysteme an der
+  Internetnutzung mit Mobilgeräten weltweit von Januar 2009 bis Mai 2014}
+  \verb{url}
+  \verb http://de.statista.com/statistik/daten/studie/184335/umfrage/marktantei
+  \verb l-der-mobilen-betriebssysteme-weltweit-seit-2009/
+  \endverb
+  \field{year}{2014}
+  \field{urlyear}{2014}
+  \warn{\item Can't use 'date' + 'year'}
+\endentry
+
+\entry{ant_homepage}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{The Apache ANT Project}}{T.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \list{organization}{1}{%
+    {{Apache Software Foundation}}%
+  }
+  \strng{namehash}{T1}
+  \strng{fullhash}{T1}
+  \field{labelyear}{2012}
+  \field{sortinit}{T}
+  \field{title}{ANT-Homepage}
+  \verb{url}
+  \verb http://ant.apache.org/
+  \endverb
+  \field{year}{2012}
+  \warn{\item Can't use 'date' + 'year' \item Invalid format of field
+  'urldate'}
+\endentry
+
+\entry{titanium_architektur}{online}{}
+  \list{organization}{1}{%
+    {Appcelerator}%
+  }
+  \field{labelyear}{2014}
+  \field{sortinit}{T}
+  \field{title}{Titanium Platform Overview}
+  \verb{url}
+  \verb http://docs.appcelerator.com/titanium/3.0/#!/guide/Titanium_Platform_Ov
+  \verb erview
+  \endverb
+  \field{year}{2014}
+  \field{urlyear}{2014}
+\endentry
+
+\entry{titanium_sdk}{online}{}
+  \list{organization}{1}{%
+    {Appcelerator}%
+  }
+  \field{labelyear}{2014}
+  \field{sortinit}{T}
+  \field{title}{Titanium SDK}
+  \verb{url}
+  \verb http://www.appcelerator.com/titanium/titanium-sdk/
+  \endverb
+  \field{year}{2014}
+  \field{urlyear}{2014}
+\endentry
+
+\entry{titanium_wp8Support}{online}{}
+  \list{organization}{1}{%
+    {Appcelerator}%
+  }
+  \field{labelyear}{2013}
+  \field{sortinit}{T}
+  \field{title}{Titanium Support Plans for Windows 8}
+  \verb{url}
+  \verb http://www.appcelerator.com/blog/2013/01/titanium-support-plans-for-win
+  \verb dows-8/
+  \endverb
+  \field{year}{2013}
+  \field{urlyear}{2014}
+\endentry
+
+\entry{xamarin_whitepaper}{booklet}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Xamarin Inc.}}{X.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \list{organization}{1}{%
+    {{Xamarin Inc.}}%
+  }
+  \strng{namehash}{X1}
+  \strng{fullhash}{X1}
+  \field{labelyear}{2014}
+  \field{extrayear}{1}
+  \field{sortinit}{X}
+  \field{title}{Key Strategies for Mobile Excellence}
+  \field{year}{2014}
+\endentry
+
+\entry{xamarin_price}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Xamarin Inc.}}{X.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \list{organization}{1}{%
+    {{Xamarin Inc.}}%
+  }
+  \strng{namehash}{X1}
+  \strng{fullhash}{X1}
+  \field{labelyear}{2014}
+  \field{extrayear}{2}
+  \field{sortinit}{X}
+  \field{title}{pricing}
+  \verb{url}
+  \verb https://store.xamarin.com/
+  \endverb
+  \field{year}{2014}
+  \warn{\item Can't use 'date' + 'year' \item Invalid format of field
+  'urldate'}
+\endentry
+
+\entry{xamarin_price_faq}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Xamarin Inc.}}{X.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \list{organization}{1}{%
+    {{Xamarin Inc.}}%
+  }
+  \strng{namehash}{X1}
+  \strng{fullhash}{X1}
+  \field{labelyear}{2014}
+  \field{extrayear}{3}
+  \field{sortinit}{X}
+  \field{title}{pricing}
+  \verb{url}
+  \verb http://xamarin.com/faq#pricing
+  \endverb
+  \field{year}{2014}
+  \warn{\item Can't use 'date' + 'year' \item Invalid format of field
+  'urldate'}
+\endentry
+
+\entry{wp8_review}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{engadget.com}}{e.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \list{organization}{1}{%
+    {{Aol Tech.}}%
+  }
+  \strng{namehash}{e1}
+  \strng{fullhash}{e1}
+  \field{labelyear}{2013}
+  \field{sortinit}{E}
+  \field{title}{Windows Phone 8 review}
+  \verb{url}
+  \verb http://www.engadget.com/2012/10/29/windows-phone-8-review/
+  \endverb
+  \field{year}{2013}
+  \field{urlyear}{2014}
+  \warn{\item Can't use 'date' + 'year'}
+\endentry
+
+\entry{kostenNativApp}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{michaels, ross and cole, ltd. (mrc)}}{m.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \list{organization}{1}{%
+    {{michaels, ross and cole, ltd. (mrc)}}%
+  }
+  \strng{namehash}{m1}
+  \strng{fullhash}{m1}
+  \field{labelyear}{2014}
+  \field{sortinit}{M}
+  \field{title}{Native mobile apps: The wrong choice for business?}
+  \verb{url}
+  \verb http://www.mrc-productivity.com/Research/whitepapers/NativeAppsWrongCho
+  \verb ice.pdf
+  \endverb
+  \field{year}{2014}
+  \field{urlyear}{2014}
+  \warn{\item Can't use 'date' + 'year'}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput
